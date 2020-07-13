@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "gestuser",
+                "projectName": "gestuser",
+                "workingDirectory": "/home/nicola/Documents/Java/Udemy/Spring Cloud/gestuser",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "gestuser",
+                "projectName": "gestuser",
+                "workingDirectory": "/home/nicola/Documents/Java/Udemy/Spring Cloud/gestuser",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
